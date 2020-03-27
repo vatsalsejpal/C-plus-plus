@@ -1,0 +1,12 @@
+Logical Expression:-
+    ==  -->  Equals to
+    >=  -->  Greater or Equals to
+    <=  -->  Less or Equals to
+    >   -->  Greater than
+    <   -->  Less than
+    !=  -->  Not Equals to
+
+If statement Syntax :-
+    if (condition){
+        Code
+    }

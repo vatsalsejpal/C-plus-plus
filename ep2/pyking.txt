@@ -1,0 +1,10 @@
+Variables
+data type:-
+int --> integer
+float --> decimal/rational
+char --> letter (a,b,c)
+string --> sentence
+ 
+syntax:-
+    [data type] [variable] = [value];
+Comment
